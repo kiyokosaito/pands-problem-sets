@@ -1,5 +1,7 @@
 
-x = (1000,10000)
+for x in range(1000, 10000):
+  if x%6==0:
+   print (str(x)+ " ", end = "") 
 
-while x = x/ 6 :
-     print(x)
+  else: 
+       pass
