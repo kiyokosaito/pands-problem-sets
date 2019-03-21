@@ -10,3 +10,5 @@ Q3: I googled the question as it is written. Then I got the link below :
 https://github.com/komuw/odesk-elance-python-answers/blob/master/question5-numbers%20divisible%20by%207%20but%20are%20not%20multiples%20of%205.py
 
 Then found this link : https://www.geeksforgeeks.org/program-print-numbers-divisible-3-5-given-number/ . I copied the code from the first link then modified accoring to the second link. 
+
+I searched python tutorial in my language (Japanese) : https://note.nkmk.me/python-if-elif-else/ and decided this is the final solution for Q3.
