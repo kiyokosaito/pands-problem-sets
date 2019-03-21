@@ -11,4 +11,4 @@ https://github.com/komuw/odesk-elance-python-answers/blob/master/question5-numbe
 
 Then found this link : https://www.geeksforgeeks.org/program-print-numbers-divisible-3-5-given-number/ . I copied the code from the first link then modified accoring to the second link. 
 
-I searched python tutorial in my language (Japanese) : https://note.nkmk.me/python-if-elif-else/ and decided this is the final solution for Q3.
+I searched python tutorial in my language (Japanese) : https://note.nkmk.me/python-if-elif-else/ and decided this is the final solution for Q3.And I checked the results mannually by calculating by 6 and 12. 
