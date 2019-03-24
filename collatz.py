@@ -2,7 +2,7 @@
 # This is solution for Q4 
 
 start = int(input("Please enter an integer: "))
-ans = 1
+ans = int
 
 while start % 2 == 0:
   ans = ans/2
