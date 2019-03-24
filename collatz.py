@@ -2,12 +2,15 @@
 # This is solution for Q4 
 
 start = int(input("Please enter an integer: "))
-ans = int
+ans = 1
 
-while start % 2 == 0:
-  ans = ans/2
+while ans !=1:
+  if ans % 2 == 0:
+    ans = ans//2
+    
   
-if start % 2 == 1:
-  ans = ans * 3 + 1
+else:
+    ans = ans * 3 + 1
+    
 
-print(ans)
+print (list(ans(start)))
