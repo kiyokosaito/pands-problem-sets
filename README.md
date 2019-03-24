@@ -17,3 +17,4 @@ Q4: I think this solution needs while and loop function.
 
 Q5: Using If and Else statement to determin if the integer is prime number or not. I googled it and took codes from  https://www.programiz.com/python-programming/examples/prime-number and edited the prints.
 
+Q8:from python Tutorial datetime — Basic date and time types:https://docs.python.org/3/library/datetime.html?highlight=date%20time#datetime.datetime.time , I can see that class datetime.datetime is needed for the solution for this question. Also I refered this link : https://www.programiz.com/python-programming/datetime/current-datetime but I could not make to pring date in English format. (24th March 22:34
