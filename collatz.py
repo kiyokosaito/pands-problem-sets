@@ -1,10 +1,16 @@
-start = int(input("Please enter an integer: ")) 
-ans = 0
+n = input("Please enter a positive integer: ")
 
-while start % 2 == 0: 
-  ans = start//2 
+def collatz(num):
 
-  if start % 2 == 1:
-    ans = start * 3 + 1   
-   
-print (start, ans end =' ')
+    if num % 2 == 0:
+        print(num // 2)
+        return num // 2
+
+    elif num % 2 == 1:
+        result = 3 * num + 1
+        print(result)
+        return result
+
+
+while n != 1:
+    n = collatz(int(n))
