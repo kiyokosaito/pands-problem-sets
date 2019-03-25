@@ -17,4 +17,6 @@ Q4: I think this solution needs while and loop function.
 
 Q5: Using If and Else statement to determin if the integer is prime number or not. I googled it and took codes from  https://www.programiz.com/python-programming/examples/prime-number and edited the prints.
 
+Q6: Watched the video again (few times now) fstring and string operation from Week 7, referred python tutorial standard libraly. use input format from Q1 and Q5, googled "how to print every second words from sentence" @ https://stackoverflow.com/questions/17645327/python-3-3-how-to-grab-every-5th-word-in-a-text-file and mimic the code that martineau answered the thread on Jul 15 '13 at 1:07. Tested and worked.  
+
 Q8:from python Tutorial datetime — Basic date and time types:https://docs.python.org/3/library/datetime.html?highlight=date%20time#datetime.datetime.time , I can see that class datetime.datetime is needed for the solution for this question. Also I refered this link : https://www.programiz.com/python-programming/datetime/current-datetime but I could not make to pring date in English format. (24th March 22:34
