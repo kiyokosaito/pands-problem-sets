@@ -13,7 +13,7 @@ Then found this link : https://www.geeksforgeeks.org/program-print-numbers-divis
 
 I searched python tutorial in my language (Japanese) : https://note.nkmk.me/python-if-elif-else/ and decided this is the final solution for Q3.And I checked the results mannually by calculating by 6 and 12. 
 
-Q4: I think this solution needs while and loop function.
+Q4: I think this solution needs while and loop function. I just cannot figure this out so I googled how to write collatz and took the code from https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff .I got the while and loop needs to be used but I still do not figured out how to use them...
 
 Q5: Using If and Else statement to determin if the integer is prime number or not. I googled it and took codes from  https://www.programiz.com/python-programming/examples/prime-number and edited the prints.
 
