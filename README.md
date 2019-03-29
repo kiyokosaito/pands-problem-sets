@@ -22,3 +22,5 @@ Q6: Watched the video again (few times now) fstring and string operation from We
 Q7: adapted from lecture video : week 8 Newton's square root but I got the error " TypeError: unsupported operand type(s) for -: 'float' and 'str'. I googled it why I get the error in Japanese (https://piyokabe.net/programming/python/input2/) and I added "int" in front of input("Please enter a positive number: ") so that program identifies input number as an integer. 
 
 Q8:from python Tutorial datetime — Basic date and time types:https://docs.python.org/3/library/datetime.html?highlight=date%20time#datetime.datetime.time , I can see that class datetime.datetime is needed for the solution for this question. Also I refered this link : https://www.programiz.com/python-programming/datetime/current-datetime but I could not make to pring date in English format. (24th March 22:34
+
+Q9 : 
