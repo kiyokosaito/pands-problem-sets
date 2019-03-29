@@ -2,12 +2,12 @@
 # Kiyoko Saito
 # adapted from Week 8 video
 
-num = int(input("Please enter a positive number: "))
+num = float(input("Please enter a positive number: "))
 
 rootof = num
 estimate = 6.0
 
-while abs((estimate * estimate) - rootof) > 0.1 :
+while float((estimate * estimate) - rootof) > 0.1 :
   estimate -= ((estimate * estimate ) - rootof) / (2 * estimate)
 
 print (f"The square root of {rootof} is approx. {estimate}.")
